@@ -39,14 +39,14 @@ I enjoy working on both the **front-end and back-end**, and I’m eager to conti
 
 #### 🏀 [SportConnect](https://github.com/GuidoCanso/SportConnect)  
 A platform to connect people through sports events. Users can create, join, and favorite events based on location, difficulty, and preferences.  
-Built with: **React**, **Flask**, **JWT**, **PostgreSQL**, **Bootstrap**.
+Built with: **React**, **Flask**, **Python** **JWT**, **PostgreSQL**, **Bootstrap**.
 
 ---
 
 ### 📫 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guidocansobre/)
+- ✉️ Email: [guidocansobre@gmail.com](mailto:your.email@example.com)
 
 ---
 
