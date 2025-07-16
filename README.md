@@ -68,7 +68,7 @@ I enjoy working on both the **front-end and back-end**, and I’m eager to conti
 ### 📫 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guidocansobre/)
-- ✉️ Email: [guidocansobre@gmail.com](mailto:your.email@example.com)
+- ✉️ Email: [guidocansobre@gmail.com](mailto:guidocansobre@gmail.com)
 
 ---
 
