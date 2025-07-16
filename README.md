@@ -40,7 +40,7 @@ I enjoy working on both the **front-end and back-end**, and I’m eager to conti
 #### 🏀 [SportConnect](https://github.com/4GeeksAcademy/SportConnect)  
 **SportConnect** is a web application that connects people through sports events. Users can create, join, and favorite events based on preferences like sport type, location, and difficulty level.
 
-<img src="https://ibb.co/9kmsg0PT" alt="SportConnect Cover" width="100%" />
+<img src="https://i.ibb.co/ZpRWXr98/Captura-de-pantalla-2025-06-10-114533.png" alt="SportConnect Cover" width="100%" />
 
 ---
 
