@@ -37,10 +37,32 @@ I enjoy working on both the **front-end and back-end**, and I’m eager to conti
 
 ### 🌟 Featured Project
 
-#### 🏀 [SportConnect](https://github.com/GuidoCanso/SportConnect)  
-A platform to connect people through sports events. Users can create, join, and favorite events based on location, difficulty, and preferences.  
-Built with: **React**, **Flask**, **Python** **JWT**, **PostgreSQL**, **Bootstrap**.
+#### 🏀 [SportConnect](https://github.com/4GeeksAcademy/SportConnect)  
+**SportConnect** is a web application that connects people through sports events. Users can create, join, and favorite events based on preferences like sport type, location, and difficulty level.
 
+<img src="https://ibb.co/9kmsg0PT" alt="SportConnect Cover" width="100%" />
+
+---
+
+#### ⚙️ Tech Overview
+
+- **Frontend**  
+  Built with **React.js**, using modern tools like:
+  - React Router for navigation  
+  - Context API for global state management  
+  - Bootstrap for responsive UI  
+  - Dynamic filtering by sport type and difficulty  
+
+- **Backend**  
+  Developed in **Python** with **Flask**:
+  - RESTful API structure  
+  - SQLAlchemy ORM for database models  
+  - JWT-based authentication and protected routes  
+  - PostgreSQL database for persistence  
+
+- **Upcoming Integrations**
+  - 🌍 External **Geolocation API** to suggest nearby events  
+  - ☀️ **Weather API** to show weather conditions for outdoor events  
 ---
 
 ### 📫 Let's Connect
