@@ -14,7 +14,7 @@
 I enjoy working on both the **front-end and back-end**, and I’m eager to continue learning and growing in both areas.
 
 ☕ I love building cool things with code, sipping coffee while debugging,  
-⚽ and always up for a quick football match to clear my mind!
+🏀 and always up for a quick Basquetball match to clear my mind!
 
 🚀 I'm currently looking for an opportunity to join a team where I can contribute, keep learning, and grow as a developer.
 
